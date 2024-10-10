@@ -7,12 +7,88 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "The value of property damage from fires on the Morningside campus increased by over 2,000 percent in 2023, according to the 2024 Annual Security and Fire Safety Report Public Safety <a href=\"https://publicsafety.columbia.edu/sites/default/files/content/SecurityReport2024.pdf\">released </a>on Oct. 1."
+          },
+          {
+            "type": "text",
+            "value": "The legally mandated, 90-page report also showed that crime incidents on the Morningside campus, a designation that includes student housing in the neighborhood, totaled 268—the exact same as in <a href=\"https://www.columbiaspectator.com/news/2023/10/02/crime-on-morningside-heights-campus-reaches-three-year-high-annual-public-safety-report-shows/\">2022</a>."
+          },
+          {
+            "type": "text",
+            "value": "“We all recognize that this has not been a typical year on our campus, but I ask our entire community to participate in keeping everyone safe,” Gerald Lewis Jr., vice president of Public Safety, wrote in the report’s introduction."
+          },
+          {
+            "type": "text",
+            "value": "In 2023, the Morningside campus reported approximately $226,460 in property damage from 12 fires. This was a 2,198 percent increase from 2022, which reported five fires and $9,850 of property damage."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "columbiafiresafety.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "From the occurring fires, the report reads, $200,000 worth of damage was caused by an accidental fire at 601 W. 115th St., which does not have a buildingwide fire alarm, and an additional $20,000 by an accidental fire at 400 W. 119th St., which does. Neither building conducted fire drills last year and both had partial sprinkler systems, according to the report."
+          },
+          {
+            "type": "text",
+            "value": "In addition to its documentation of last year’s crime and fire incidents, the report includes an update on future infrastructure improvements, such as its intent to incorporate additional fire suppression and detection methods in building renovations."
+          },
+          {
+            "type": "text",
+            "value": "“Columbia University Facilities and Operations has established the Morningside Campus Fire and Life Safety program for developing and implementing a Master Plan for the upgrade and expansion of all fire alarm and fire protection systems,” the report reads."
+          },
+          {
+            "type": "text",
+            "value": "The report documents crimes committed on or around University campuses, based on reports made to Public Safety and local police precincts. The crimes are “not necessarily committed against members of the University community,” according to the report."
+          },
+          {
+            "type": "text",
+            "value": "Roberto A. Pineda Sanchez, the director of Clery Act compliance, oversaw the preparation of the report, working with Public Safety, the Office of General Counsel, the Office of Institutional Equity, the fire safety division in Facilities and Operations, and the Center for Student Success and Intervention, alongside representatives from Columbia’s five campuses."
+          },
+          {
+            "type": "text",
+            "value": "In 2023, incidents of burglary and dating violence on the Morningside campus were down substantially. The report defines dating violence as violence or abuse, including “forms of serious emotional, psychological, sexual, technological, or economic abuse,” committed by a person who has engaged in a “social relationship of a romantic or sexually intimate nature with the victim.”"
+          },
+          {
+            "type": "text",
+            "value": "Thirty-six incidents of burglary and nine incidents of dating violence were reported, a 32 percent and 65 percent decrease, respectively. Meanwhile, aggravated assault and motor vehicle theft were up, with seven reports of aggravated assault and 26 reports of motor vehicle theft, representing a 250 percent and a 271 percent increase, respectively, from 2022."
+          },
+          {
+            "type": "text",
+            "value": "Disciplinary referrals for liquor law violations and burglary were the most frequently logged crime incident categories."
+          },
+          {
+            "type": "text",
+            "value": "The report also encourages students and community members to immediately report crimes or emergencies. This can be done through Public Safety or the Lion Safe app, which allows users to request emergency services."
+          },
+          {
+            "type": "text",
+            "value": "In 2022, a distinction was made for the first time between the Morningside and Manhattanville campuses, separating crime rates by campus and allowing for more detailed comparisons."
+          },
+          {
+            "type": "text",
+            "value": "<i>Staff Writer Emily Pickering can be contacted at </i><a href=\"mailto:emily.pickering@columbiaspectator.com\"><i>emily.pickering@columbiaspectator.com</i></a><i>. Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>.</i></b>"
+          }
+        ],
+        "headline": "Columbia’s annual Public Safety report shows over $225,000 in fire damage on Morningside campus",
+        "date": "October 10, 2024",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/emily-pickering/\">Emily Pickering</a>. Graphic by <a href=\"https://www.columbiaspectator.com/contributors/laya-gollamudi/\">Laya Gollamudi</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/S5XCC7D2ORAEXAQBEFGDJDXXA4.jpg",
+        "cover_caption": "Pippa Tsuki Carlson / Senior Staff Photographer",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1amAOkWdU0jHSZFIPplsnjnwx1Qg5buk0zdT4oaPD-w0/edit?tab=t.0"
       }
     }
   }
