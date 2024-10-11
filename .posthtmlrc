@@ -10,6 +10,10 @@
         "body": [
           {
             "type": "text",
+            "value": "<i>Updated on Oct. 11 at X:XX p.m.</i>"
+          },
+          {
+            "type": "text",
             "value": "The value of property damage from fires on the Morningside campus increased by over 2,000 percent in 2023, according to the 2024 Annual Security and Fire Safety Report Public Safety <a href=\"https://publicsafety.columbia.edu/sites/default/files/content/SecurityReport2024.pdf\">released </a>on Oct. 1."
           },
           {
@@ -73,6 +77,10 @@
           {
             "type": "text",
             "value": "<i>Staff Writer Emily Pickering can be contacted at </i><a href=\"mailto:emily.pickering@columbiaspectator.com\"><i>emily.pickering@columbiaspectator.com</i></a><i>. Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Editor Laya Gollamudi can be contacted at </i><a href=\"mailto:laya.gollamudi@columbiaspectator.com\"><i>laya.gollamudi@columbiaspectator.com</i></a><i>. Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
           },
           {
             "type": "text",
